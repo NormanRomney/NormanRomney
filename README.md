@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Azure VM Honeypot with Attack Map](https://github.com/NormanRomney/Azure-VM-Honeypot-with-Attack-Map)**
 
 <hr/>
 
