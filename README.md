@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Azure VM Honeypot with Attack Map](https://github.com/NormanRomney/Azure-VM-Honeypot-with-Attack-Map)**
-- **[Azure VM Honeypot with Attack Map](https://github.com/NormanRomney/Azure-VM-Honeypot-with-Attack-Map)**
+- **[Threat Hunting Scenario-Tor](https://github.com/NormanRomney/threat-hunting-scenario-tor)**
 
 
 
