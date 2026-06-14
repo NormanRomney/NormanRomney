@@ -26,7 +26,6 @@
     PS C:\> .\STIG-ID-WN11-AU-000500.ps1 
 #>
 
-# YOUR CODE GOES HERE
 
 $Path = 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application'
 
