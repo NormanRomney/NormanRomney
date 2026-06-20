@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/joshmadakor/">Norman Romney</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I enjoy the challenge of cybersecurity and bringing an investigative, risk-focused mindset to protecting organizations from evolving threats. Drawing on my experience as a law enforcement officer in patrol, domestic violence intervention, and landlord-tenant investigations, I developed strong skills in incident assessment, evidence gathering, documentation, and problem-solving under pressure. Through hands-on cybersecurity projects focused on security operations, threat detection, and vulnerability management, I continue to build practical skills while applying the same analytical approach that guided my investigative work. I invite you to explore these projects and see how I am leveraging my background to support and strengthen security operations.
 
 
 ## ⚠️ Vulnerability Management Projects
