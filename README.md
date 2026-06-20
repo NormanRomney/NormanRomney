@@ -6,7 +6,7 @@ I enjoy the challenge of cybersecurity and bringing an investigative, risk-focus
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/NormanRomney/vulnerability-management-program)**
-- **[DISA-STIG Pwershell Remediations]([https://github.com/NormanRomney/vulnerability-management-program](https://github.com/NormanRomney/NormanRomney/tree/main/STIGS))**
+- **[DISA-STIG Pwershell Remediations]([https://github.com/NormanRomney/vulnerability-management-program](https://github.com/NormanRomney/NormanRomney/tree/main/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
