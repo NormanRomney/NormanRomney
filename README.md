@@ -13,7 +13,7 @@ I enjoy the challenge of cybersecurity and bringing an investigative, risk-focus
 - **[Azure VM Honeypot with Attack Map](https://github.com/NormanRomney/Azure-VM-Honeypot-with-Attack-Map)**
 - **[Threat Hunting Scenario-Tor](https://github.com/NormanRomney/threat-hunting-scenario-tor)**
 - **[Azuki-Threat-Hunt](https://github.com/NormanRomney/Azuki-Threat-Hunt)**
-
+- **[Just Another Day-Threat-Hunt](https://github.com/NormanRomney/Just-Another-Day-Threat-Hunt/blob/main/just-another-day-threat-hunt.md)**
 
 
 
